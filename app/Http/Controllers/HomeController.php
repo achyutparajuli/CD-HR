@@ -35,4 +35,27 @@ class HomeController extends Controller
     {
         return view('web.site.contact');
     }
+
+    public function apply(Request $request)
+    {
+        // Append request data to a JSON log file
+        $logFile = storage_path('logs/applied.json');
+        $existing = [];
+
+        if (file_exists($logFile)) {
+            $existing = json_decode(file_get_contents($logFile), true) ?? [];
+        }
+
+        $newEntry = [
+            'timestamp' => now()->toDateTimeString(),
+            'data' => $request->all(),
+        ];
+
+        array_unshift($existing, $newEntry); // Add to the beginning of the array
+
+        file_put_contents($logFile, json_encode($existing, JSON_PRETTY_PRINT));
+
+        flash()->success('Thank you! Your job application has been received.');
+        return redirect()->back();
+    }
 }

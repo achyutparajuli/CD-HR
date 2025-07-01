@@ -98,7 +98,8 @@
 
             <div class="col-sm-6 col-xs-12">
                 <div class="contact_form">
-                    <form id="contact_form">
+                    <form id="contact_form" method="post" action="{{ route('apply') }}">
+                        @csrf
                         <div class="form-group">
                             <input type="text" name="name" id="name" placeholder="Your Name" required>
                         </div>
@@ -110,6 +111,9 @@
                         </div>
                         <div class="form-group">
                             <input type="text" name="city" id="city" placeholder="Your City" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" name="interest" id="interest" placeholder="Your Interest Eg: Cooking, Cleaning" required>
                         </div>
                         <textarea cols="30" rows="5" name="message" id="message" placeholder="Write a short message..." required></textarea>
                         <button class="mt_btn_yellow mar-top-10" id="submit-btn">SEND MESSAGE

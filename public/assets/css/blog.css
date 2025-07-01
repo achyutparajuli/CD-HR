@@ -48,7 +48,7 @@
     content: '';
     left: 0;
     width: 0;
-    background: #ffac00;
+    background: #2C317B;
     height: 100%;
     position: absolute;
     top: 0;
@@ -57,7 +57,7 @@
 }
 
 .blog_cat:after{
-    background: #ffac00;
+    background: #2C317B;
 }
 
 .blog-post-image:hover .blog_cat{
@@ -206,12 +206,12 @@
   font-size: 15px;
 }
 
-#blog_main_sec .author_box .author_bio ul li a:hover i{color: #fff; background:#ffac00; border-color:#ffac00; transition: all 0.4s ease; }
+#blog_main_sec .author_box .author_bio ul li a:hover i{color: #fff; background:#2C317B; border-color:#2C317B; transition: all 0.4s ease; }
 
 #blog_main_sec #comments {margin-top: 40px; }
 
 #blog_main_sec #comments .single-post_heading, #blog_main_sec #comments .leave_comment h3{
-  border-left: 3px solid #ffac00;
+  border-left: 3px solid #2C317B;
   padding-left: 20px;
 }
 
@@ -329,7 +329,7 @@
 }
 
 #blog_main_sec #comments .leave_comment textarea:hover, #blog_main_sec #comments .leave_comment textarea:focus {
-  border: 1px solid #ffac00; 
+  border: 1px solid #2C317B; 
 }
 
 @media(max-width: 911px){
@@ -365,7 +365,7 @@ aside .widget:last-child{margin-bottom: 0;}
 aside .widget h3 {
     margin-bottom:30px;
     margin-top: 0px;
-    border-left: 3px solid #ffac00;
+    border-left: 3px solid #2C317B;
     padding-left: 20px;
 }
 
@@ -420,7 +420,7 @@ aside .widget .search-form a.search_btn {
 }
 
 aside .widget .search-form a.search_btn:hover{
-  color: #ffac00;
+  color: #2C317B;
 } 
 
 aside .widget_recent_entries ul {overflow: hidden; }
@@ -481,7 +481,7 @@ aside .widget_tag_cloud ul li a {
   border-radius: 3px; 
 }
 
-aside .widget_tag_cloud ul li a:hover, aside .widget_tag_cloud ul li a:focus {color: #FFFFFF!important; background: #ffac00; }
+aside .widget_tag_cloud ul li a:hover, aside .widget_tag_cloud ul li a:focus {color: #FFFFFF!important; background: #2C317B; }
 
 aside .widget.widget_instagram a {
     width: 25%;
@@ -507,7 +507,7 @@ aside .widget.widget_follow .socibox {
 }
 
 aside .widget.widget_follow .socibox:hover{
-  background: #ffac00;
+  background: #2C317B;
   -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     -ms-transition: all .3s ease-in-out;
