@@ -1,0 +1,49 @@
+# Laravel & PHP
+/vendor/
+/node_modules/
+/public/storage
+/storage/*.key
+.env
+.env.*
+.phpunit.result.cache
+
+# IDEs and editors
+*.sublime*
+*.vscode
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Composer & NPM logs
+composer.lock
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Cache
+/storage/framework/cache/*
+/storage/logs/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+# Misc
+.env.backup
+.env.local
+Homestead.json
+Homestead.yaml
+
+# Optional
+/public/hot
+/public/mix-manifest.json
+/public/build
+
+# Git directory structure
+*.log
+*.gz
+*.zip
+*.tar
