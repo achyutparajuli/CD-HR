@@ -289,7 +289,7 @@
                             <img src="{{ asset('assets/images/project/bw6.jpg') }}" class="img-fluid">
                             <div class="project-overlay text-center">
                                 <h3 class="text-center white">Civil Engineering</h3>
-                                <p class="white">Bubba likes to appear out of thin air.</p>
+                                <p class="white">Designing and building infrastructure with precision and strength.</p>
                             </div>
                         </a>
                     </div>
@@ -301,7 +301,7 @@
                             <img src="{{ asset('assets/images/project/bw8.jpg') }}" class="img-fluid">
                             <div class="project-overlay text-center">
                                 <h3 class="text-center white">Plumbing</h3>
-                                <p class="white">Bubba likes to appear out of thin air.</p>
+                                <p class="white">Efficient water systems and drainage solutions for all needs.</p>
                             </div>
                         </a>
                     </div>
@@ -313,7 +313,7 @@
                             <img src="{{ asset('assets/images/project/bw11.jpg') }}" class="img-fluid">
                             <div class="project-overlay text-center">
                                 <h3 class="text-center white">Pharmaceutical</h3>
-                                <p class="white">Bubba likes to appear out of thin air.</p>
+                                <p class="white">Building clean, regulated spaces for pharma innovation and safety.</p>
                             </div>
                         </a>
                     </div>
@@ -325,7 +325,7 @@
                             <img src="{{ asset('assets/images/project/bw12.jpg') }}" class="img-fluid">
                             <div class="project-overlay text-center">
                                 <h3 class="text-center white">Remediation</h3>
-                                <p class="white">Bubba likes to appear out of thin air.</p>
+                                <p class="white">Restoring contaminated sites to a clean and usable state.</p>
                             </div>
                         </a>
                     </div>
@@ -337,7 +337,7 @@
                             <img src="{{ asset('assets/images/project/bw5.jpg') }}" class="img-fluid">
                             <div class="project-overlay text-center">
                                 <h3 class="text-center white">Cleaning</h3>
-                                <p class="white">Bubba likes to appear out of thin air.</p>
+                                <p class="white">Professional-grade cleaning for industrial and commercial sites.</p>
                             </div>
                         </a>
                     </div>
@@ -346,10 +346,10 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="project-image">
                         <a href="images/project/bw9.jpg') }}" data-toggle="lightbox" data-footer="A custom footer text" data-gallery="example-gallery">
-                            <img src="{{ asset('assets/images/project/bw5.jpg') }}" class="img-fluid">
+                            <img src="{{ asset('assets/images/project/bw6.jpg') }}" class="img-fluid">
                             <div class="project-overlay text-center">
-                                <h3 class="text-center white">Cleaning</h3>
-                                <p class="white">Bubba likes to appear out of thin air.</p>
+                                <h3 class="text-center white">Structure Design</h3>
+                                <p class="white">Innovative and stable design solutions for lasting structures.</p>
                             </div>
                         </a>
                     </div>
