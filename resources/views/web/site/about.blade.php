@@ -27,8 +27,14 @@
                 <div class="col-md-6 col-sm-12">
                     <div class="about-content">
                         <span class="mar-bottom-15">About Company</span>
-                        <h2 class="mar-bottom-30">We individually assess each <br> plan and offer optimal solutions</h2>
-                        <p class="mar-bottom-40">We are committed to connecting skilled professionals with trusted employers across the globe. Our process ensures transparency, efficiency, and full support from application to deployment. Let us guide you toward a successful career opportunity abroad with confidence and care.</p>
+                        <h2 class="mar-bottom-30">C.D. Human Resource –<br> The Best Recruiting Agency
+                        </h2>
+                        <p class="mar-bottom-40">
+                            C.D. Human Resource has redefined the process of global recruitment, transforming it into a predictable and accurate process with defined parameters for matching job skills of potential candidates with the job profiles of international companies. As an overseas placement agency, we provide international jobs for skilled, semi-skilled, and unskilled workers with various corporate giants in Saudi Arabia, Qatar, the Middle East, Africa, the U.A.E., Bahrain, Kuwait, and Asia-Pacific countries.
+                        </p>
+                        <p>
+                            The overseas company also forwards a draft of the employment agreement between the employer and the employee.
+                        </p>
                         <!-- <a href="#" class="btn mt_btn_yellow">Our Services</a> -->
                     </div>
                 </div>
@@ -44,6 +50,41 @@
     </div>
 </section>
 <!--*EndAbout*-->
+
+
+<section id="mt_about">
+    <div class="container" bis_skin_checked="1">
+        <div class="about_inner" bis_skin_checked="1">
+            <div class="row" bis_skin_checked="1">
+                <div class="col-md-6 col-sm-12 wow slideInDown" bis_skin_checked="1" style="visibility: visible; animation-name: slideInDown;">
+                    <div class="about-img" bis_skin_checked="1">
+                        <img src="{{asset('assets/images/chairman.png')}}">
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12" bis_skin_checked="1">
+                    <div class="about-content" bis_skin_checked="1">
+                        <span class="mar-bottom-15">Message From Chairman</span>
+                        <h2 class="mar-bottom-30">We Build for Your Comfort</h2>
+                        <p class="mar-bottom-30">
+                            Dear All,<br><br>
+
+                            C.D. Human Resource is a leading manpower agency with an excellent track record of client satisfaction. For over a decade, we have been providing a wide range of recruitment solutions—from skilled labor to high-profile professionals—while catering to diverse industries and projects. Our expertise ensures that we meet your company's human resource needs effectively.<br><br>
+
+                            With extensive experience in supplying manpower to meet modern business demands, we prioritize mutual and beneficial business relationships. Our commitment lies in delivering exceptional services to our valued clients.<br><br>
+
+                            Thank you for your trust.<br><br>
+
+                            Best regards,<br>
+                            Rabin Ghimire<br>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
 <section id="choose_us" class="about_choose_us">
     <div class="container">
@@ -186,8 +227,40 @@
         </div>
     </div>
 </section>
-
 <!--*EndAbout*-->
+
+<section id="mt_about">
+    <div class="container" bis_skin_checked="1">
+        <div class="about_inner" bis_skin_checked="1">
+            <div class="row" bis_skin_checked="1">
+                <div class="col-md-6 col-sm-12" bis_skin_checked="1">
+                    <div class="about-content" bis_skin_checked="1">
+                        <span class="mar-bottom-15">Message From Chief Executive Officer</span>
+                        <h2 class="mar-bottom-30">Driving Excellence in Human Resource Solutions</h2>
+                        <p class="mar-bottom-30">
+                            Dear Valued Partners,<br><br>
+
+                            For over a decade, C.D. Human Resource has delivered exceptional manpower solutions across Construction, Engineering, Healthcare, and Energy sectors. We connect businesses with the right talent - from skilled workers to executives.<br><br>
+
+                            Our strength lies in understanding unique needs and building lasting partnerships. Trusted by companies throughout the Middle East, Asia, and Africa, we maintain rigorous standards to drive your success.<br><br>
+
+                            Experience the C.D. Human Resource difference today.<br><br>
+
+                            Warm regards,<br>
+                            Maheshwar Singh Bhandari<br>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12 wow slideInDown" bis_skin_checked="1" style="visibility: visible; animation-name: slideInDown;">
+                    <div class="about-img" bis_skin_checked="1">
+                        <img src="{{asset('assets/images/ceo.png')}}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <!--* Fun And Facts*-->
 <section id="mt_fun">
