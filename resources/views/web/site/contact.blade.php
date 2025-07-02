@@ -33,12 +33,12 @@
                 <div class="col-md-6">
                     <div class="contact-info">
                         <h3>Contact Info</h3>
-                        <p class="mar-bottom-20">Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.</p>
+                        <p class="mar-bottom-20">CDHRNP is a trusted manpower recruitment agency dedicated to connecting skilled Nepali workers with international opportunities. We are committed to professionalism, transparency, and ethical recruitment practices.</p>
                         <ul>
-                            <li><i class="fa fa-map-marker"></i> Gartenstraße 9, 6832 Sulz</li>
-                            <li><i class="fa fa-phone"></i> +43 21645896</li>
-                            <li><i class="fa fa-envelope"></i> info@Nirman.com</li>
-                            <li><i class="fa fa-globe"></i> www.Nirman.com</li>
+                            <li><i class="fa fa-map-marker"></i> Sinamangal , Near Panchakumari mandir</li>
+                            <li><i class="fa fa-phone"></i> +977-015921834</li>
+                            <li><i class="fa fa-envelope"></i>info@cdhrnp.com</li>
+                            <li><i class="fa fa-globe"></i> www.cdhrnp.com</li>
                         </ul>
                     </div>
                 </div>
