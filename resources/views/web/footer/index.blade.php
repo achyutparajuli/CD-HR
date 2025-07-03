@@ -9,7 +9,10 @@
                         <img src="{{ asset('assets/images/c-logo.png')}}" alt="Logo" style="max-width: 180px;" class="mb-3">
                     </a>
                     <p>
-                        We build lasting partnerships through quality and commitment. Delivering reliable solutions that drive success, we connect people and businesses for a brighter tomorrow.
+                        We build lasting partnerships through quality and commitment. Delivering reliable solutions that drive success, we connect people and businesses for a brighter tomorrow.<br>
+                        Company registration Number: 1<b>56236/073/074</b><br>
+                        Government License Number: <b>1048/073/074</b><br>
+                        Pan Number: <b>604329028</b>
                     </p>
                 </div>
             </div>

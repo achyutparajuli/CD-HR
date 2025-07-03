@@ -31,11 +31,13 @@
                         </h2>
                         <p class="mar-bottom-40">
                             C.D. Human Resource has redefined the process of global recruitment, transforming it into a predictable and accurate process with defined parameters for matching job skills of potential candidates with the job profiles of international companies. As an overseas placement agency, we provide international jobs for skilled, semi-skilled, and unskilled workers with various corporate giants in Saudi Arabia, Qatar, the Middle East, Africa, the U.A.E., Bahrain, Kuwait, and Asia-Pacific countries.
+                            <br>
+                            The overseas company also forwards a draft of the employment agreement between the employer and the employee.<br><br>
+
+                            Company registration Number: 1<b>56236/073/074</b><br>
+                            Government License Number: <b>1048/073/074</b><br>
+                            Pan Number: <b>604329028</b>
                         </p>
-                        <p>
-                            The overseas company also forwards a draft of the employment agreement between the employer and the employee.
-                        </p>
-                        <!-- <a href="#" class="btn mt_btn_yellow">Our Services</a> -->
                     </div>
                 </div>
 
