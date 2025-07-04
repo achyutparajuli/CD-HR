@@ -5,7 +5,7 @@
             <!-- Logo & About -->
             <div class="col-md-4 col-12">
                 <div class="follow_us">
-                    <a href="index.html" aria-label="Homepage">
+                    <a href="{{ route('home') }}" aria-label="Homepage">
                         <img src="{{ asset('assets/images/c-logo.png')}}" alt="Logo" style="max-width: 180px;" class="mb-3">
                     </a>
                     <p>
