@@ -13,7 +13,7 @@
                 <div class="top-bar-left pull-left">
                     <ul>
                         <li><i class="fa fa-phone"></i> Phone: 01-5921834</li>
-                        <li><i class="fa fa-envelope"></i> Email: mdserveyoubest2000@gmail.com</li>
+                        <li><i class="fa fa-envelope"></i> Email: info@cdhrnp.com</li>
                     </ul>
                 </div>
 
@@ -57,7 +57,7 @@
 
                 </ul>
             </div><!--/.nav-collapse -->
-           
+
         </div>
 
         <div id="slicknav-mobile"></div>
