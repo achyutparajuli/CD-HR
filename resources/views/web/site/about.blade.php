@@ -24,14 +24,14 @@
     <div class="container">
         <div class="about_inner">
             <div class="row">
-                <div class="col-md-6 col-sm-12">
+                <div class="col-md-12 col-sm-12">
                     <div class="about-content">
                         <span class="mar-bottom-15">About Company</span>
-                        <h2 class="mar-bottom-30">C.D. Human Resource –<br> The Best Recruiting Agency
+                        <h2 class="mar-bottom-30">C.D. Human Resource –The Best Recruiting Agency
                         </h2>
                         <p class="mar-bottom-40">
                             C.D. Human Resource has redefined the process of global recruitment, transforming it into a predictable and accurate process with defined parameters for matching job skills of potential candidates with the job profiles of international companies. As an overseas placement agency, we provide international jobs for skilled, semi-skilled, and unskilled workers with various corporate giants in Saudi Arabia, Qatar, the Middle East, Africa, the U.A.E., Bahrain, Kuwait, and Asia-Pacific countries.
-                            <br>
+                            <br><br>
                             The overseas company also forwards a draft of the employment agreement between the employer and the employee.<br><br>
 
                             Company registration Number: 1<b>56236/073/074</b><br>
@@ -40,13 +40,6 @@
                         </p>
                     </div>
                 </div>
-
-                <div class="col-md-6 col-sm-12">
-                    <div class="about-img">
-                        <img src="{{ asset('assets/images/project/bw12.jpg') }}">
-                    </div>
-                </div>
-
             </div>
         </div>
     </div>
