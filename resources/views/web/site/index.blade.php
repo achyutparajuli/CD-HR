@@ -360,119 +360,6 @@
 </section>
 <!--* End Portfolio*-->
 
-<!--*Team*-->
-<section id="const-team" style="display: none;">
-    <div class="container wow slideInDown">
-        <div class="row">
-            <div class="col-xs-12">
-                <!-- section title -->
-                <div class="section_heading text-center">
-                    <h4 class="text-uppercase white">MEET OUR TEAM</h4>
-                    <h2 class="section_title white">
-                        <span>Our Expert Team Members</span>
-                    </h2>
-                    <p class="heading_txt mar-top-30 white">There are variations available majoritaey suffered alteration words which look believable
-                        dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.</p>
-                </div>
-            </div>
-        </div>
-        <div class="testi-main">
-            <div class="row slider-team">
-                <div class="col-md-4 item">
-                    <div class="team_member">
-                        <figure class="effect-julia">
-                            <img src="{{ asset('assets/images/team/team1.png')}}" alt="team">
-                        </figure>
-                        <div class="team-overlay">
-                            <div class="member_name">
-                                <h4 class="white">Monica Wagase</h4>
-                                <span>Camical officer</span>
-                                <p class="white">Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.</p>
-                            </div>
-                            <ul class="socialicons">
-                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 item">
-                    <div class="team_member">
-                        <figure class="effect-julia">
-                            <img src="{{ asset('assets/images/team/team2.png')}}" alt="team">
-
-                        </figure>
-                        <div class="team-overlay">
-                            <div class="member_name">
-                                <h4 class="white">Jhoseph Low</h4>
-                                <span>Interior Designer</span>
-                                <p class="white">Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.</p>
-                            </div>
-                            <ul class="socialicons">
-                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 item">
-                    <div class="team_member">
-                        <figure class="effect-julia">
-                            <img src="{{ asset('assets/images/team/team3.png')}}" alt="team">
-
-                        </figure>
-
-                        <div class="team-overlay">
-                            <div class="member_name">
-                                <h4 class="white">Jhon Doe</h4>
-                                <span>Building Worker</span>
-                                <p class="white">Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.</p>
-                            </div>
-                            <ul class="socialicons">
-                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 item">
-                    <div class="team_member">
-                        <figure class="effect-julia">
-                            <img src="{{ asset('assets/images/team/team4.png')}}" alt="team">
-
-                        </figure>
-
-                        <div class="team-overlay">
-                            <div class="member_name">
-                                <h4 class="white">JHON DOE</h4>
-                                <span>Building Worker</span>
-                                <p class="white">Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.</p>
-                            </div>
-                            <ul class="socialicons">
-                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</section>
-<!--* End Team*-->
 
 <section id="ads">
     <div class="container">
@@ -481,7 +368,6 @@
 </section>
 
 @include('web.header.faq')
-
 
 <!--=* Get Started Section*=-->
 <section id="mt_get_started">
@@ -505,4 +391,22 @@
     </div>
 </section>
 <!--* End Get Started Section*-->
+
+<!-- Certificates -->
+
+<section id="mt_project" class="">
+    <div class="container wow slideInDown">
+        <div class="row">
+            <div class="col-xs-12">
+                <!-- section title -->
+                <div class="section_heading text-center">
+                    <h2 class="section_title">
+                        <span>Certificates</span>
+                    </h2>
+                    <a href="{{ asset('assets/images/certificates.png') }}" target="_blank"><img src="{{ asset('assets/images/certificates.png') }}"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 @endsection
