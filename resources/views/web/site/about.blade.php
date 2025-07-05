@@ -89,37 +89,36 @@
 </section>
 
 <section id="mt_about">
-    <div class="container" bis_skin_checked="1">
-        <div class="about_inner" bis_skin_checked="1">
-            <div class="row" bis_skin_checked="1">
-                <div class="col-md-6 col-sm-12" bis_skin_checked="1">
-                    <div class="about-content" bis_skin_checked="1">
+    <div class="container">
+        <div class="about_inner">
+            <div class="row">
+                <!-- Image Column: Shown first on mobile -->
+                <div class="col-md-6 col-sm-12 order-2 order-sm-2 wow slideInDown" style="visibility: visible; animation-name: slideInDown;">
+                    <div class="about-img">
+                        <img src="{{ asset('assets/images/chairman.png') }}">
+                    </div>
+                </div>
+
+                <!-- Text Column: Shown second on mobile -->
+                <div class="col-md-6 col-sm-12 order-1 order-sm-1">
+                    <div class="about-content">
                         <span class="mar-bottom-15">Message From Chairman</span>
                         <h2 class="mar-bottom-30">We Build for Your Comfort</h2>
                         <p class="mar-bottom-30">
                             Dear All,<br><br>
-
                             C.D. Human Resource is a leading manpower agency with an excellent track record of client satisfaction. For over a decade, we have been providing a wide range of recruitment solutions—from skilled labor to high-profile professionals—while catering to diverse industries and projects. Our expertise ensures that we meet your company's human resource needs effectively.<br><br>
-
                             With extensive experience in supplying manpower to meet modern business demands, we prioritize mutual and beneficial business relationships. Our commitment lies in delivering exceptional services to our valued clients.<br><br>
-
                             Thank you for your trust.<br><br>
-
                             Best regards,<br>
                             Rabin Ghimire<br>
                         </p>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-sm-12 wow slideInDown" bis_skin_checked="1" style="visibility: visible; animation-name: slideInDown;">
-                    <div class="about-img" bis_skin_checked="1">
-                        <img src="{{asset('assets/images/chairman.png')}}">
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 
 <section id="choose_us" class="about_choose_us">
     <div class="container">
