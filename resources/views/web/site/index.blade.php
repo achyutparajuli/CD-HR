@@ -394,6 +394,5 @@
 
 <!-- Certificates -->
 
-@include('web.site.certificates')
 
 @endsection
