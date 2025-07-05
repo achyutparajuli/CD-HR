@@ -249,7 +249,7 @@
                             Experience the C.D. Human Resource difference today.<br><br>
 
                             Warm regards,<br>
-                            Maheshwar Singh Bhandari<br>
+                            Maheswor Singh Bhandari<br>
                         </p>
                     </div>
                 </div>
@@ -282,7 +282,7 @@
                             Experience the C.D. Human Resource difference today.<br><br>
 
                             Warm regards,<br>
-                            Maheshwar Singh Bhandari<br>
+                            Maheswor Singh Bhandari<br>
                         </p>
                     </div>
                 </div>
