@@ -231,13 +231,46 @@
 </section>
 <!--*EndAbout*-->
 
-<section id="mt_about">
+<section id="mt_about" style="display: none;">
     <div class="container" bis_skin_checked="1">
         <div class="about_inner" bis_skin_checked="1">
             <div class="row" bis_skin_checked="1">
                 <div class="col-md-6 col-sm-12" bis_skin_checked="1">
                     <div class="about-content" bis_skin_checked="1">
                         <span class="mar-bottom-15">Message From Chief Executive Officer</span>
+                        <h2 class="mar-bottom-30">Driving Excellence in Human Resource Solutions</h2>
+                        <p class="mar-bottom-30">
+                            Dear Valued Partners,<br><br>
+
+                            For over a decade, C.D. Human Resource has delivered exceptional manpower solutions across Construction, Engineering, Healthcare, and Energy sectors. We connect businesses with the right talent - from skilled workers to executives.<br><br>
+
+                            Our strength lies in understanding unique needs and building lasting partnerships. Trusted by companies throughout the Middle East, Asia, and Africa, we maintain rigorous standards to drive your success.<br><br>
+
+                            Experience the C.D. Human Resource difference today.<br><br>
+
+                            Warm regards,<br>
+                            Maheshwar Singh Bhandari<br>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12 wow slideInDown" bis_skin_checked="1" style="visibility: visible; animation-name: slideInDown;">
+                    <div class="about-img" bis_skin_checked="1">
+                        <img src="{{asset('assets/images/ceo.png')}}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="mt_about">
+    <div class="container" bis_skin_checked="1">
+        <div class="about_inner" bis_skin_checked="1">
+            <div class="row" bis_skin_checked="1">
+                <div class="col-md-6 col-sm-12" bis_skin_checked="1">
+                    <div class="about-content" bis_skin_checked="1">
+                        <span class="mar-bottom-15">Message From Founder & Managing Director</span>
                         <h2 class="mar-bottom-30">Driving Excellence in Human Resource Solutions</h2>
                         <p class="mar-bottom-30">
                             Dear Valued Partners,<br><br>
