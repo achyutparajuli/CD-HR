@@ -359,8 +359,7 @@
     </div>
 </section>
 <!--* End Portfolio*-->
-
-
+ 
 <section id="ads">
     <div class="container">
         <p class="text-center white">We’re here for you. Call us at 01-5921834 or&nbsp;<a href="mailto:mdserveyoubest2000@gmail.com">Email us</a></p>
